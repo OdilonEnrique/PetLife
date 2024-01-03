@@ -2,7 +2,7 @@
     Projeto X-men
 </h1>
 
-<img src="./src/imagens/Image-project.jpg">
+<img src="./src/Image-Project.jpg">
 
 <p> Projeto do curso "Start na programação" da OneBitCode.</p>
 
