@@ -1,5 +1,5 @@
-<h1>
-    Projeto X-men
+<h1 align="center">
+    Pet Life
 </h1>
 
 <img src="./src/Image-Project.jpg">
